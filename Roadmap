@@ -1,0 +1,31 @@
+# Trackora Roadmap
+
+This roadmap communicates the direction of Trackora. Priorities and timelines may change as development progresses and feedback is collected.
+
+## Core asset management
+- [ ] Asset registration and inventory management
+- [ ] Asset categories, locations, and status tracking
+- [ ] Assignment, return, and transfer workflows
+- [ ] Search, filtering, and asset details
+
+## Lifecycle and operations
+- [ ] Maintenance and warranty tracking
+- [ ] QR labels and physical inventory workflows
+- [ ] Asset history and lifecycle management
+- [ ] Reporting and inventory audits
+
+## Advanced capabilities
+- [ ] Software and license management
+- [ ] Asset analytics and cost visibility
+- [ ] AI-assisted asset information retrieval
+
+## SaaS foundation
+- [ ] Organizational workspaces and role-based permissions
+- [ ] Tenant isolation and security testing
+- [ ] Subscription plans and usage controls
+
+## Help shape Trackora
+
+Have a suggestion? Open an issue and describe the problem you want Trackora to solve.
+
+**Note:** This roadmap describes planned product direction, not a guarantee that every feature is implemented or scheduled for a particular release.
